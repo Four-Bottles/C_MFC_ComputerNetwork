@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/12/25 9:48:34。
+     1>项目“C:\Users\Kejun\Documents\Visual Studio 2013\Projects\2015211862TCPSever\2015211862TCPSever\2015211862TCPSever.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\2015211862TCPSever.res" 2015211862TCPSever.rc 
+       Link:
+         G:\VS2013 Install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kejun\Documents\Visual Studio 2013\Projects\2015211862TCPSever\Debug\2015211862TCPSever.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"G:\VS2013 Install\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Kejun\Documents\Visual Studio 2013\Projects\2015211862TCPSever\Debug\2015211862TCPSever.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kejun\Documents\Visual Studio 2013\Projects\2015211862TCPSever\Debug\2015211862TCPSever.lib" /MACHINE:X86 Debug\2015211862TCPSever.res
+         Debug\2015211862TCPSever.obj
+         Debug\2015211862TCPSeverDlg.obj
+         Debug\stdafx.obj
+         2015211862TCPSever.vcxproj -> C:\Users\Kejun\Documents\Visual Studio 2013\Projects\2015211862TCPSever\Debug\2015211862TCPSever.exe
+     1>已完成生成项目“C:\Users\Kejun\Documents\Visual Studio 2013\Projects\2015211862TCPSever\2015211862TCPSever\2015211862TCPSever.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.96
